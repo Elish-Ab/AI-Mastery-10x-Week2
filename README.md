@@ -1,4 +1,4 @@
-# Project: WEEK2
+# WEEK2 Project
 
 ## Overview
 This project is focused on interacting with a PostgreSQL database to perform data extraction, loading, and analysis. It includes Jupyter Notebooks for data loading, as well as Python scripts for handling database connections, data extraction, loading, and analysis.
