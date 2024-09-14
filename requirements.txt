@@ -1,4 +1,5 @@
 pandas
 numpy
-sklearn
+scikit-learn
 scipy.spatial.distance
+SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
